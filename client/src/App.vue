@@ -24,7 +24,7 @@ export default {
 a1{
   color: #ffffff;
 }
-body{background-image: url(https://www.synphaet.co.th/wp-content/uploads/2020/07/45647176_xl-2-e1594957953713.jpg);
+body{background-image: url(https://medlineplus.gov/images/DrugReactions_share.jpg);
 }
 button {
   background-color: rgb(255, 85, 85);
